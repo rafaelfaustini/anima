@@ -117,9 +117,9 @@
               </ul>
             </div>
           </div>
-        <div class="row">
-          <div class="col-lg-8 mx-auto text-center">
-            <p class="large text-muted text-center">Desenvolvemos um serviço ajustado a sua necessidade. Obrigado por escolher o Anima.</p>
+        <div class="row text-center">
+          <div class="col-lg-8 mx-auto">
+            <p class="large text-muted">Desenvolvemos um serviço ajustado a sua necessidade. Obrigado por escolher o Anima.</p>
           </div>
         </div>
       </div>
