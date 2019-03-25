@@ -13,11 +13,11 @@ http://rafaelfaustini.com.br/anima.
 
 ## Creators
 
-Leonardo Martelotte
-Rafael Faustini
-Guilherme Alexandre
-Gabriel Roland
-Lucas José
+- Leonardo Martelotte
+- Rafael Faustini
+- Guilherme Alexandre
+- Gabriel Roland
+- Lucas José
 
 ## License
 
