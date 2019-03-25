@@ -7,8 +7,8 @@ I made this fork in order to maintain Anima, I may update the website but of cou
 Aware of the mobility needs, the Unilasalle-RJ's Information Systems students, had the idea of creating an environment to share means of transport in a reliable and pleasant way.
 
 ## Check the live version of Anima
-
-Available at: http://rafaelfaustini.com.br/anima.
+The master branch is autodeployed to the website below:
+http://rafaelfaustini.com.br/anima.
 
 
 ## Creators
