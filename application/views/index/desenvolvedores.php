@@ -11,7 +11,7 @@
         <div class="row">
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/1.png'); ?>" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/1.jpg'); ?>" alt="">
               <h4>Leonardo Martelotte</h4>
               <p class="text-muted">Gestor do Projeto Anima<br>Desenvolvedor Full stack</p>
             <ul class="list-inline social-buttons">
@@ -30,7 +30,7 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/2.png'); ?>" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/2.jpg'); ?>" alt="">
               <h4>Rafael Faustini</h4>
               <p class="text-muted">Desenvolvedor Full stack</p>
               <ul class="list-inline social-buttons">
@@ -40,7 +40,7 @@
                   </a>
                 </li>
                 <li class="list-inline-item">
-                  <a href="http://rafaelfaustini.com.br">
+                  <a href="https://rafaelfaustini.com.br">
                     <i class="fa fa-globe"></i>
                   </a>
                 </li>
@@ -54,7 +54,7 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/3.png'); ?>" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/3.jpg'); ?>" alt="">
               <h4>Guilherme Alexandre</h4>
               <p class="text-muted">Desenvolvedor web front-end</p>
               <ul class="list-inline social-buttons">
@@ -78,7 +78,7 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/4.png'); ?>" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/4.jpg'); ?>" alt="">
               <h4>Gabriel Roland</h4>
               <p class="text-muted">Desenvolvedor web front-end</p>
               <ul class="list-inline social-buttons">
@@ -98,7 +98,7 @@
           </div>
           <div class="col-sm-4">
             <div class="team-member">
-              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/5.png'); ?>" alt="">
+              <img class="mx-auto rounded-circle" src="<?php echo base_url('img/desenvolvedores/5.jpg'); ?>" alt="">
               <h4>Lucas José</h4>
               <p class="text-muted">Desenvolvedor web front-end</p>
               <ul class="list-inline social-buttons">
