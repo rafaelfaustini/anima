@@ -1,6 +1,6 @@
    <!--<div class="copyright  intro-lead-in sombras text-white" style="background-color:#660298"> -->
 <div class="footer-copyright py-0 text-center sombras text-white" style="background-color:#660298;">
-&nbsp;
+  <a class="text-center display-3">© Anima</a>
 </div>
   </style>
     <!-- Como funciona? Modals -->
